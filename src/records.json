@@ -1,0 +1,51 @@
+[
+    {
+      "empName": "jeff",
+      "id":101,
+      "salary":100000,
+      "managerId":0
+  
+    },
+    {
+      "empName": "Cory",
+      "id":213,
+      "salary":65000,
+      "managerId":101
+    },
+    {
+      "empName": "Suzanne",
+      "id":154,
+      "salary":61000,
+      "managerId":109
+    },
+    {
+      "empName": "Dave",
+      "id":109,
+      "salary":85000,
+      "managerId":101
+    },
+    {
+      "empName": "Andy",
+      "id":110,
+      "salary":65000,
+      "managerId":109
+    },
+    {
+      "empName": "Dan",
+      "id":199,
+      "salary":60000,
+      "managerId":109
+    },
+    {
+      "empName": "Jason",
+      "id":132,
+      "salary":60000,
+      "managerId":109
+    },
+    {
+      "empName": "Rick",
+      "id":133,
+      "salary":56000,
+      "managerId":109
+    }
+  ]   
